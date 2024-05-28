@@ -30,3 +30,6 @@
 
 14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales, a que legislación recurrió el mismo y como ARGBroker puede respaldarse jurídicamente. ***NANU***
 
+15. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
+Empleados) y si tendrán un contrato con qué cláusulas.
+
