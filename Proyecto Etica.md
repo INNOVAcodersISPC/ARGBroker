@@ -22,13 +22,13 @@
 
 10. Si los datos de la base de datos son adulterados de manera externa, a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
 
-11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. ***NANU***
+11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. $\color{#ff63b8}{\textsf{NANU}}$
 
 12. Cómo ARGBroker debe implementar seguridad según la Ley de Protección de Datos Personales.
 
 13. Si el cliente decide reemplazar a ARGBroker por otro proveedor, describir cómo se debe actuar de manera ética ante el cliente y los colegas.
 
-14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales, a que legislación recurrió el mismo y como ARGBroker puede respaldarse jurídicamente. ***NANU***
+14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales, a que legislación recurrió el mismo y como ARGBroker puede respaldarse jurídicamente.$\color{#ff63b8}{\textsf{NANU}}$
 
 15. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
 Empleados) y si tendrán un contrato con qué cláusulas.
