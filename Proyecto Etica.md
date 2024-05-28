@@ -33,3 +33,4 @@
 15. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
 Empleados) y si tendrán un contrato con qué cláusulas.
 
+Desarrollo de pregunta 3 y 4 -En Progreso-
