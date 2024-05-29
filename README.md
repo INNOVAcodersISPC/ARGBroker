@@ -68,9 +68,8 @@ revisada en la cursada:
 
 5. Si el código es replicado, describir como la Ley de Propiedad Intelectual puede salvaguardar a ARGBroker.
 
-6. Si un integrante del grupo divulga los datos de la base de datos interna, describir como legalmente deberían accionar los demás. KARY
-
-7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. KARY
+6. Si un integrante del grupo divulga los datos de la base de datos interna, describir como legalmente deberían accionar los demás. 
+7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. 
 
 8. Si otro integrante del grupo reutiliza el código para fines personales a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
 
