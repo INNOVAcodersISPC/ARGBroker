@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T23:34:42.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="P-mgjX8CNBFj8Q63mywM" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T23:35:44.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hSBc3MGbya2a23Oy7LOa" version="24.4.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,13 +128,13 @@
           <mxGeometry y="140.00000000000003" width="229.99999999999997" height="70.00000000000001" as="geometry" />
         </mxCell>
         <mxCell id="QiRBI5vm9oK-2EZn020s-3" value="Accion" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="360" y="520" width="230" height="330" as="geometry" />
+          <mxGeometry x="340" y="520" width="260" height="360" as="geometry" />
         </mxCell>
         <mxCell id="QiRBI5vm9oK-2EZn020s-5" value="actualizarCotizaciones(): void" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=10;" parent="QiRBI5vm9oK-2EZn020s-3" vertex="1">
-          <mxGeometry y="264" width="200" height="33" as="geometry" />
+          <mxGeometry y="288" width="226.08695652173913" height="36" as="geometry" />
         </mxCell>
         <mxCell id="QiRBI5vm9oK-2EZn020s-4" value="simbolo: String&#xa;nombreEmpresa: String&#xa;ultimoOperado: float&#xa;cantidadCompraDiaria: int&#xa;precioCompraActual: float&#xa;precioVentaActual: float&#xa;cantidadVentaDiaria: int&#xa;apertura: float&#xa;minimoDiario: float&#xa;maximoDiario: float&#xa;ultimoCierre: float" style="text;html=1;strokeColor=none;fillColor=none;spacingLeft=10;" parent="QiRBI5vm9oK-2EZn020s-3" vertex="1">
-          <mxGeometry x="10" y="10" width="200" height="231.00000000000003" as="geometry" />
+          <mxGeometry x="11.304347826086957" y="10.909090909090908" width="226.08695652173913" height="251.99999999999997" as="geometry" />
         </mxCell>
         <mxCell id="QiRBI5vm9oK-2EZn020s-6" value="AccionUsuario" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="630" y="540" width="330" height="240" as="geometry" />
