@@ -17,6 +17,7 @@
 7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. KARY
 
 8. Si otro integrante del grupo reutiliza el código para fines personales a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
+
 Contemplando que este grupo representa una Empresa, donde todos los integrantes son socios igualitarios, el software que se produzca en el nombre de esta empresa y esté registrado debidamente bajo la LEY 11.723 - REGIMEN LEGAL DE LA PROPIEDAD INTELECTUAL, queda potegido a nivel internacional por el Convenio de Budapest.  
 Este es el primer instrumento internacional que trata de manera específica aspectos relacionados con el ciberdelito. El mismo fue sancionado en noviembre de 2001 por el Consejo de Europa y entró en vigencia en 2004. En 2017, mediante la sanción de la Ley Nro. 27.411, la Argentina aprobó el mismo como parte de su legislación.
 
