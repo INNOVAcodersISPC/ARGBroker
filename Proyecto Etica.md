@@ -35,7 +35,11 @@ Empleados) y si tendrán un contrato con qué cláusulas.
 
 
 
-5- desarrollo pregunta 5
+5- Si bien el artículo 9 de la Ley de Propiedad Intelectual permite a quienes detentan la licencia de programas de computación hacer una única copia de resguardo de los ejemplares originales (siempre que dicha copia esté claramente identificada y se utilice solo para reemplazar al original), establece claramente que “Nadie tiene derecho a publicar, sin permiso de los autores o de sus derechohabientes, una producción científica, literaria, artística o musical que se haya anotado o copiado durante su lectura, ejecución o exposición públicas o privadas”.
+La ley salvaguarda a ArgBroker reconociéndolo como propietario de su software en el artículo 4, inciso d, que especifica: “Son titulares del derecho de propiedad intelectual: Las personas físicas o jurídicas cuyos dependientes contratados para elaborar un programa de computación hubiesen producido un programa de computación en el desempeño de sus funciones laborales, salvo estipulación en contrario”. Esto significa que, salvo acuerdo contrario, ArgBroker tiene los derechos sobre el software desarrollado por sus empleados.
+La ley también proporciona acciones legales para defenderse y persigue con hasta penas de prisión a quienes hagan uso ilegítimo de su propiedad intelectual. Tal como indican los artículos 71 y 72, cualquier persona que defraude los derechos de propiedad intelectual reconocidos por esta ley será reprimida con las penas establecidas en el artículo 172 del Código Penal. Esto incluye casos como la edición, venta o reproducción no autorizada del software, y permite al autor reclamar daños y perjuicios por la violación de sus derechos.
+Tambien, el artículo 55 bis introduce que la explotación de la propiedad intelectual sobre programas de computación puede incluir, entre otras formas, los contratos de licencia para su uso o reproducción, otorgando al titular del derecho la capacidad de controlar y defender legalmente el uso de su software.
+
 6- desarrollo pregunta 6 
 8 -  Convenio Internacional sobre Ciber criminalidad
 9 - pregunta de lau
