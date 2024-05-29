@@ -43,4 +43,4 @@ Tambien, el artículo 55 bis introduce que la explotación de la propiedad intel
 6- desarrollo pregunta 6 
 8 -  Convenio Internacional sobre Ciber criminalidad
 9 - pregunta de lau
-10 - pregunta de cristian  hola
+10 - pregunta de cristian
