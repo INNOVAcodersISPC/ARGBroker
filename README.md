@@ -5,9 +5,9 @@ Estudiantes de la tecnicatura Desarrollo de Software del ISPC Cba, se nos ha sol
 Esta aplicación tiene como objetivo que los usuarios puedan realizar transacciones partiendo de un saldo inicial que les permitirá comprar, vender, consultar saldo, acciones compradas, asi como tambien ganancias y pérdidas. 
 
 
-Mostrando un panel que le brindara esta información útil y de fácil acceso:   
+Mostrando un panel que le brindara  información útil y de fácil acceso:   
 
--Símbolo y nombre de la empresa de la acción. 
+- Símbolo y nombre de la empresa de la acción. 
 - Último Operado
 - Cantidad Compra diaria
 - Precio de Compra actual
@@ -31,6 +31,4 @@ cantidad de acciones compradas con su respectivo símbolo/título, el valor comp
 * **Vargas Cristian**  [Malvada Papa](https://github.com/Malvadapapa)
 
 
-## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, por favor visita => https://mit-license.org/
