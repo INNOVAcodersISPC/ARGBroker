@@ -1,5 +1,12 @@
 # ARGBroker 🚀🚀
 
+## PROPÓSITO
+
+
+## CONTEXTO
+
+
+
 La empresa tecnológica ISPC Cba se ha inscripto como broker de bolsa para ser intermediario entre los inversores y la Bolsa de Valores de Buenos Aires MERVAL.
 
 ## Puesta en Marcha: 📋
