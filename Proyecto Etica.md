@@ -23,6 +23,9 @@ Este es el primer instrumento internacional que trata de manera específica aspe
 
 9. Si la base de datos es adulterada de manera externa, a nivel nacional, describir qué instrumento legal respalda a ARGBroker.
 
+El instrumento legal que respalda a ARGBroker en esta situación es el Código Penal en su articulo 4°, que sanciona y reprime a quien abriera o accediera indebidamente por cualquier medio y sin la debida autorización -o excediendo la que posea- a un sistema o dato informático de acceso restringido.
+También, al respecto, puede mencionarse los artículos 9 y 10 del mismo código, que mencionan como sancionable la manipulación para alterar el normal funcionamiento de un sistema informático como así también modificar o destruir datos o introducir programas en el sistema informático para ocasionarle daños.
+
 10. Si los datos de la base de datos son adulterados de manera externa, a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
 
 11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. $\color{#ff63b8}{\textsf{NANU}}$
