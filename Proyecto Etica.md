@@ -12,9 +12,9 @@
 
 5. Si el código es replicado, describir como la Ley de Propiedad Intelectual puede salvaguardar a ARGBroker.
 
-6. Si un integrante del grupo divulga los datos de la base de datos interna, describir como legalmente deberían accionar los demás. KARY
+6. Si un integrante del grupo divulga los datos de la base de datos interna, describir como legalmente deberían accionar los demás. 
 
-7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. KARY
+7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. 
 
 8. Si otro integrante del grupo reutiliza el código para fines personales a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
 
@@ -43,7 +43,6 @@ La ley salvaguarda a ArgBroker reconociéndolo como propietario de su software e
 La ley también proporciona acciones legales para defenderse y persigue con hasta penas de prisión a quienes hagan uso ilegítimo de su propiedad intelectual. Tal como indican los artículos 71 y 72, cualquier persona que defraude los derechos de propiedad intelectual reconocidos por esta ley será reprimida con las penas establecidas en el artículo 172 del Código Penal. Esto incluye casos como la edición, venta o reproducción no autorizada del software, y permite al autor reclamar daños y perjuicios por la violación de sus derechos.
 Tambien, el artículo 55 bis introduce que la explotación de la propiedad intelectual sobre programas de computación puede incluir, entre otras formas, los contratos de licencia para su uso o reproducción, otorgando al titular del derecho la capacidad de controlar y defender legalmente el uso de su software.
 
-6- desarrollo pregunta 6 
-8 -  Convenio Internacional sobre Ciber criminalidad
-9 - pregunta de lau
-10 - pregunta de cristian
+6- Si un integrante divulgase los datos, los demás integrantes deben iniciar una demanda por daños y perjuicios porque el código penal en su art 153 establece que a quien accediere por cualquier medio, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido será penado por ley. 
+
+7- Si un programador reutilizara codigo, se puede considerar como violación a la propiedad intelectual, que avalados por el codigo penal en el artículo 172 trata sobre estafas y otras defraudaciones “Será reprimido con prisión el que defraudare a otro con nombre supuesto, calidad simulada, falsos títulos, influencia mentida, abuso de confianza o aparentando bienes, crédito, comisión, empresa o negociación o valiéndose de cualquier otro ardid o engaño.” Como asi tambien la ley 11.723 iniciando acciones civiles por violación de derechos de autor.
