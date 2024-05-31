@@ -39,6 +39,8 @@ También, al respecto, pueden citarse los artículos 9 y 10 del mismo código, q
 15. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
 Empleados) y si tendrán un contrato con qué cláusulas.
 
+15- El grupo estara conformado por una empresa llamada ARGBroker, donde todos los integrantes seran socios igualitarios y tendran las mismas obligaciones y responsabilidades ante la ley. Una de las clausulas sera el objetivo de la creacion de la empresa. Otra de las clausulas del contrato dictara que todo software creado por la empresa ARGBroker, pertenecera a la misma y no a sus integrantes, evitando asi el reclamo de derechos individuales sobre dicho software, evitando conflictos de propiedad por alguna posible partida de alguno de los integrantes de la empresa.
+
 
 
 5- Si bien el artículo 9 de la Ley de Propiedad Intelectual permite a quienes detentan la licencia de programas de computación hacer una única copia de resguardo de los ejemplares originales (siempre que dicha copia esté claramente identificada y se utilice solo para reemplazar al original), establece claramente que “Nadie tiene derecho a publicar, sin permiso de los autores o de sus derechohabientes, una producción científica, literaria, artística o musical que se haya anotado o copiado durante su lectura, ejecución o exposición públicas o privadas”.
