@@ -4,6 +4,8 @@
 
 1. Describir quiénes y ante quien deben matricularse a nivel provincial para ejercer la Profesión.
 
+1- Todos los integrantes de la empresa ARGBroker deberian matricularse ante el Consejo Profesional de Ciencias Informaticas de la Provincia de Cordoba segun lo establecido en la ley provincial N° 7642.
+
 2. Describir qué requerimientos deben cumplir el código programado y las bases de datos según la legislación vigente
 
 3. Enumerar los pasos para que ARGBroker sea parte del Registro Nacional de software.
