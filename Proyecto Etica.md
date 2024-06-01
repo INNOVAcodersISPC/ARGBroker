@@ -92,7 +92,5 @@ Tambien, el artículo 55 bis introduce que la explotación de la propiedad intel
 7- Si un programador reutilizara codigo, se puede considerar como violación a la propiedad intelectual, que avalados por el codigo penal en el artículo 172 trata sobre estafas y otras defraudaciones “Será reprimido con prisión el que defraudare a otro con nombre supuesto, calidad simulada, falsos títulos, influencia mentida, abuso de confianza o aparentando bienes, crédito, comisión, empresa o negociación o valiéndose de cualquier otro ardid o engaño.” Como asi tambien la ley 11.723 iniciando acciones civiles por violación de derechos de autor.
 
 12- Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
-
 ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
-
 ARGBroker implementará medidas de seguridad para proteger los datos de los usuarios, realizando pruebas de riesgo y actualizando las medidas periódicamente.
