@@ -10,7 +10,44 @@
 
 3. Enumerar los pasos para que ARGBroker sea parte del Registro Nacional de software.
 
+1. Ingresar al TAD (Trámites a Distancia):
+Accede al sitio web del Registro Nacional de la Propiedad Intelectual (https://www.argentina.gob.ar/inpi) y dirígete a la sección Trámites.
+Selecciona la opción Inscripción de obra publicada - Software.
+2. Crear una cuenta o iniciar sesión:
+Si ya tienes una cuenta en TAD, inicia sesión con tu nombre de usuario y contraseña.
+Si no tienes una cuenta, deberás crear una nueva siguiendo las instrucciones del sistema.
+3. Completar el formulario de solicitud:
+El formulario te solicitará información sobre el software, como el título, la descripción, los autores, los titulares de los derechos y la fecha de creación.
+También deberás subir algunos documentos, como el código fuente del software y una copia del manual de usuario (si lo hay).
+4. Pagar el arancel:
+El arancel para el registro de software es de $3.000.
+Puedes pagar el arancel con tarjeta de crédito o débito a través del sistema TAD.
+5. Enviar la solicitud:
+Una vez que hayas completado el formulario y pagado el arancel, podrás enviar la solicitud.
+El sistema te asignará un número de expediente electrónico, que deberás conservar para cualquier consulta posterior.
+6. Seguimiento del expediente:
+Puedes seguir el estado de tu expediente en el TAD.
+Recibirás una notificación por correo electrónico cuando tu solicitud haya sido procesada.
+7. Obtención del certificado de registro:
+Si tu solicitud es aprobada, recibirás un certificado de registro que acredita que tu software está registrado en el Registro Nacional de Software.
+
+Requisitos adicionales:
+Si no eres el autor y/o titular del software, deberás presentar documentación que acredite tu derecho a registrarlo.
+Si el software fue desarrollado por una empresa, deberás presentar documentación que acredite la existencia de la empresa y la representación legal del solicitante.
+
+
 4. Si un integrante del grupo no realiza el trámite de matriculación, qué pena le corresponde a nivel provincial.
+
+LEY PROVINCIAL N°7642/87 CONSEJO PROFECIONAL DE CIENCIAS INFORMATICAS DE LA PROVINCIA DE CORDOBA
+ 
+Artículo 6
+El ejercicio de las Profesiones comprendidas en el Artículo I, por personas no inscriptas en el Consejo con su correspondiente matrícula, será penado por multas en dinero que oscilarán entre diez (IO) y quinientas (500) veces el valor del derecho de Inscripción a la matrícula.
+
+Artículo 20 NORMAS GENERALES
+Es deber del profesional respetar las disposiciones y resoluciones de la Asociación, como así también el de velar por el prestigio de la profesión.
+No debe permitir tampoco que otra persona ejerza la profesión en su nombre o facilitar que alguien pueda actuar como profesional sin serlo.
+En vista de lo antes mencionado se debería informar al colega de su falta y a un tiempo prudencial si sigue sin matricularse se debe informar al Concejo.
+
 
 5. Si el código es replicado, describir como la Ley de Propiedad Intelectual puede salvaguardar a ARGBroker.
 
