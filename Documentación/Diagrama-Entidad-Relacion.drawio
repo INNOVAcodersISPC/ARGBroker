@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T01:07:49.990Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Wj5coKlCZ6flyYM-NwLd" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T19:32:49.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7SDZHWKc1_cp6lXWfaxL" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -571,6 +571,12 @@
             <mxPoint x="400" y="310" as="sourcePoint" />
             <mxPoint x="480" y="630" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MePu9FQydTboMwxuuvSx-1" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Usuario&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Guarda datos relacionados con la información personal del usuario, que se refiere principalmente a la identificación única del individuo.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1270" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MePu9FQydTboMwxuuvSx-2" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Cuenta&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: normal;&quot;&gt;Guarda datos relacionados con la información monetaria&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="1450" width="200" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
