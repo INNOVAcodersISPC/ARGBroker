@@ -8,6 +8,8 @@
 
 2. Describir qué requerimientos deben cumplir el código programado y las bases de datos según la legislación vigente
 
+2- Segun la legislacion vigente en argentina comprendida en la ley 25.326 de Proteccion de Datos Personales, el codigo y la base de datos debe cumplir con ciertos requerimientos para garantizar la privacidad y la proteccion de datos personales de los usuarios. Entre estos requerimientos se encuentran el consentimiento del titular de los datos, la calidad de los datos, la transparencia en el uso de la informacion, confidencialidad, entre otros.
+
 3. Enumerar los pasos para que ARGBroker sea parte del Registro Nacional de software.
 
 1. Ingresar al TAD (Trámites a Distancia):
