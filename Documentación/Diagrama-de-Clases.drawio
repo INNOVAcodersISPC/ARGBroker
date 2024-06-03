@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T15:48:05.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="dRMx0hw-NytYUSy41DVE" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T15:59:07.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="rp_knGiyWhhhv7W-B636" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,7 +269,7 @@
         <mxCell id="mTbjINKqypKUPINs6Hyn-263" value="PersonaJuridica:&#xa;&#xa;Usuario Intermediario entre una empresa &#xa;o institución con el broker" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1001" y="730" width="259" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="O21Rg3iqXLTgUqLZNzkE-0" value="PersonaFisica" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;shadow=0;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="O21Rg3iqXLTgUqLZNzkE-0" value="PersonaFisica (instancia)" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;shadow=0;strokeWidth=1;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="28" y="20" width="174" height="240" as="geometry" />
         </mxCell>
         <mxCell id="O21Rg3iqXLTgUqLZNzkE-2" value="- nombre: str" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" parent="O21Rg3iqXLTgUqLZNzkE-0" vertex="1">
@@ -294,15 +294,15 @@
           <mxGeometry y="210" width="174" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O21Rg3iqXLTgUqLZNzkE-17" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Consultar&lt;/h1&gt;&lt;p&gt;tipoi DateTime python&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="920" width="180" height="120" as="geometry" />
+          <mxGeometry x="50" y="770" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="O21Rg3iqXLTgUqLZNzkE-46" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Herencia&lt;/h1&gt;&lt;div&gt;Cuando se realiza la herrencia de clases los atributos y metodos se heredan, es decir que lo podemos utilizar&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="510" y="990" width="180" height="120" as="geometry" />
+          <mxGeometry x="370" y="766" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="t89FGCKtv_TSO_w-eXg2-0" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Empresa/InstitucionPublica&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Son heredadas de PersonaJuridica, dado que ambas son Insituciones pero una de ellas es privada (Empresa)&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="702" width="210" height="158" as="geometry" />
+          <mxGeometry x="1020" y="840" width="210" height="158" as="geometry" />
         </mxCell>
-        <mxCell id="t89FGCKtv_TSO_w-eXg2-1" value="&lt;h1 align=&quot;right&quot; style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;&lt;p align=&quot;right&quot;&gt;Clase abstracta de la que heredan PersonaFisica y PersonaJuridica, y que representan tanto a personas físicas como jurídicas que pueden ser inversores. &lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="t89FGCKtv_TSO_w-eXg2-1" value="&lt;h1 align=&quot;right&quot; style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;&lt;p align=&quot;right&quot;&gt;Clase abstracta de la que heredan PersonaFisica y PersonaJuridica, y que representan tanto a personas físicas como jurídicas que pueden ser &lt;u&gt;inversores&lt;/u&gt;. &lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="65" width="320" height="120" as="geometry" />
         </mxCell>
         <mxCell id="t89FGCKtv_TSO_w-eXg2-6" value="" style="endArrow=block;html=1;rounded=0;exitX=1;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=0.006;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mTbjINKqypKUPINs6Hyn-211" target="mTbjINKqypKUPINs6Hyn-164">
