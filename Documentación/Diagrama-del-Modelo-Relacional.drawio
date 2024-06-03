@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T19:32:49.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7SDZHWKc1_cp6lXWfaxL" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T00:29:26.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B6VgRQASMVYeKYXa61hy" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1600" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-2" value="Cuenta" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="110" width="250" height="210" as="geometry" />
+          <mxGeometry x="425" y="120" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-2" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-13" value="Shipments" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="570" y="340" width="250" height="130" as="geometry" />
+          <mxGeometry x="760" y="-100" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-14" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-13" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -273,7 +273,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4DBMk47A97KYlHQE66dQ-1" value="Historial" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry y="530" width="250" height="210" as="geometry" />
+          <mxGeometry x="850" y="560" width="250" height="210" as="geometry" />
         </mxCell>
         <mxCell id="4DBMk47A97KYlHQE66dQ-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="4DBMk47A97KYlHQE66dQ-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-1" value="Transaccion" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="510" width="250" height="320" as="geometry" />
+          <mxGeometry x="820" y="170" width="250" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-2" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="Zm-PTzHUrG5nKlAuhwfw-1" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -487,10 +487,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Transaccion&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;color:#1F1F1F;mso-ansi-language:ES-AR;mso-fareast-language:ES-AR;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Almacena información sobre las transacciones ejecutadas, como la fecha,&lt;br/&gt;la hora, el precio, la cantidad, etc.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="960" width="190" height="140" as="geometry" />
+          <mxGeometry x="65" y="600" width="190" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-36" value="Orden" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="280" y="740" width="250" height="180" as="geometry" />
+          <mxGeometry x="425" y="390" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-37" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="Zm-PTzHUrG5nKlAuhwfw-36" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -558,7 +558,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Orden&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size:11.0pt;line-height:107%;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;color:#1F1F1F;mso-ansi-language:ES-AR;mso-fareast-language:ES-AR;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Almacena información sobre las órdenes de compra o venta de activos&lt;br/&gt;realizadas por los clientes, como el tipo de orden, la cantidad, el precio,&lt;br/&gt;etc.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry y="1100" width="190" height="170" as="geometry" />
+          <mxGeometry x="65" y="740" width="190" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Zm-PTzHUrG5nKlAuhwfw-55" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=-0.024;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Zm-PTzHUrG5nKlAuhwfw-40" target="Zm-PTzHUrG5nKlAuhwfw-2" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -572,11 +572,11 @@
             <mxPoint x="480" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MePu9FQydTboMwxuuvSx-1" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Usuario&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Guarda datos relacionados con la información personal del usuario, que se refiere principalmente a la identificación única del individuo.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1270" width="200" height="170" as="geometry" />
+        <mxCell id="MePu9FQydTboMwxuuvSx-1" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Usuario&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Guarda datos relacionados con la información personal del usuario, que se refiere principalmente a la identificación única del individuo.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="65" y="910" width="200" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="MePu9FQydTboMwxuuvSx-2" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Cuenta&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: normal;&quot;&gt;Guarda datos relacionados con la información monetaria&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry y="1450" width="200" height="170" as="geometry" />
+        <mxCell id="MePu9FQydTboMwxuuvSx-2" value="&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(251, 251, 251);&quot;&gt;Cuenta&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 70%;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.82); font-family: &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 14px; font-weight: normal;&quot;&gt;Guarda datos relacionados con la información monetaria&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="60" y="1100" width="200" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
