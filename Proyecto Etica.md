@@ -52,10 +52,18 @@ En vista de lo antes mencionado se debería informar al colega de su falta y a u
 
 
 5. Si el código es replicado, describir como la Ley de Propiedad Intelectual puede salvaguardar a ARGBroker.
+Si bien el artículo 9 de la Ley de Propiedad Intelectual permite a quienes detentan la licencia de programas de computación hacer una única copia de resguardo de los ejemplares originales (siempre que dicha copia esté claramente identificada y se utilice solo para reemplazar al original), establece claramente que “Nadie tiene derecho a publicar, sin permiso de los autores o de sus derechohabientes, una producción científica, literaria, artística o musical que se haya anotado o copiado durante su lectura, ejecución o exposición públicas o privadas”.
+La ley salvaguarda a ArgBroker reconociéndolo como propietario de su software en el artículo 4, inciso d, que especifica: “Son titulares del derecho de propiedad intelectual: Las personas físicas o jurídicas cuyos dependientes contratados para elaborar un programa de computación hubiesen producido un programa de computación en el desempeño de sus funciones laborales, salvo estipulación en contrario”. Esto significa que, salvo acuerdo contrario, ArgBroker tiene los derechos sobre el software desarrollado por sus empleados.
+La ley también proporciona acciones legales para defenderse y persigue con hasta penas de prisión a quienes hagan uso ilegítimo de su propiedad intelectual. Tal como indican los artículos 71 y 72, cualquier persona que defraude los derechos de propiedad intelectual reconocidos por esta ley será reprimida con las penas establecidas en el artículo 172 del Código Penal. Esto incluye casos como la edición, venta o reproducción no autorizada del software, y permite al autor reclamar daños y perjuicios por la violación de sus derechos.
+Tambien, el artículo 55 bis introduce que la explotación de la propiedad intelectual sobre programas de computación puede incluir, entre otras formas, los contratos de licencia para su uso o reproducción, otorgando al titular del derecho la capacidad de controlar y defender legalmente el uso de su software.
 
 6. Si un integrante del grupo divulga los datos de la base de datos interna, describir como legalmente deberían accionar los demás. 
+Si un integrante divulgase los datos, los demás integrantes deben iniciar una demanda por daños y perjuicios porque el código penal en su art 153 establece que a quien accediere por cualquier medio, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido será penado por ley. 
 
-7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino. 
+
+7. Si otro integrante del grupo reutiliza el código para fines personales, describir como legalmente deberían accionar los demás según la Legislación de la Provincia de Córdoba y el Código Penal Argentino.
+
+Si un programador reutilizara codigo, se puede considerar como violación a la propiedad intelectual, que avalados por el codigo penal en el artículo 172 trata sobre estafas y otras defraudaciones “Será reprimido con prisión el que defraudare a otro con nombre supuesto, calidad simulada, falsos títulos, influencia mentida, abuso de confianza o aparentando bienes, crédito, comisión, empresa o negociación o valiéndose de cualquier otro ardid o engaño.” Como asi tambien la ley 11.723 iniciando acciones civiles por violación de derechos de autor.
 
 8. Si otro integrante del grupo reutiliza el código para fines personales a nivel internacional, describir qué instrumento legal respalda a ARGBroker.
 
@@ -71,9 +79,16 @@ También, al respecto, pueden citarse los artículos 9 y 10 del mismo código, q
 
 11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. $\color{#ff63b8}{\textsf{NANU}}$
 
+Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
+ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
+ARGBroker implementará medidas de seguridad para proteger los datos de los usuarios, realizando pruebas de riesgo y actualizando las medidas periódicamente.
+ 
+
 12. Cómo ARGBroker debe implementar seguridad según la Ley de Protección de Datos Personales.
 
 13. Si el cliente decide reemplazar a ARGBroker por otro proveedor, describir cómo se debe actuar de manera ética ante el cliente y los colegas.
+En caso de que el cliente decida reemplazar el sistema por el de otro proveedor, ARGBroker se compromete a garantizar una transición ética y profesional. Esto incluye mantener una comunicación abierta y colaborativa tanto con el cliente como con los colegas, asegurando la confidencialidad y la integridad de la información del cliente, y cumpliendo con todas las obligaciones legales correspondientes. 
+ARGBroker seguirá los lineamientos establecidos por el Consejo Profesional de Ciencias Informáticas, respetando los principios éticos y las buenas prácticas de la profesión.
 
 14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales, a que legislación recurrió el mismo y como ARGBroker puede respaldarse jurídicamente. $\color{#ff63b8}{\textsf{NANU}}$
 
@@ -81,21 +96,4 @@ También, al respecto, pueden citarse los artículos 9 y 10 del mismo código, q
 Empleados) y si tendrán un contrato con qué cláusulas.
 
 15- El grupo estara conformado por una empresa llamada ARGBroker, donde todos los integrantes seran socios igualitarios y tendran las mismas obligaciones y responsabilidades ante la ley. Una de las clausulas sera el objetivo de la creacion de la empresa. Otra de las clausulas del contrato dictara que todo software creado por la empresa ARGBroker, pertenecera a la misma y no a sus integrantes, evitando asi el reclamo de derechos individuales sobre dicho software, evitando conflictos de propiedad por alguna posible partida de alguno de los integrantes de la empresa.
-
-
-
-5- Si bien el artículo 9 de la Ley de Propiedad Intelectual permite a quienes detentan la licencia de programas de computación hacer una única copia de resguardo de los ejemplares originales (siempre que dicha copia esté claramente identificada y se utilice solo para reemplazar al original), establece claramente que “Nadie tiene derecho a publicar, sin permiso de los autores o de sus derechohabientes, una producción científica, literaria, artística o musical que se haya anotado o copiado durante su lectura, ejecución o exposición públicas o privadas”.
-La ley salvaguarda a ArgBroker reconociéndolo como propietario de su software en el artículo 4, inciso d, que especifica: “Son titulares del derecho de propiedad intelectual: Las personas físicas o jurídicas cuyos dependientes contratados para elaborar un programa de computación hubiesen producido un programa de computación en el desempeño de sus funciones laborales, salvo estipulación en contrario”. Esto significa que, salvo acuerdo contrario, ArgBroker tiene los derechos sobre el software desarrollado por sus empleados.
-La ley también proporciona acciones legales para defenderse y persigue con hasta penas de prisión a quienes hagan uso ilegítimo de su propiedad intelectual. Tal como indican los artículos 71 y 72, cualquier persona que defraude los derechos de propiedad intelectual reconocidos por esta ley será reprimida con las penas establecidas en el artículo 172 del Código Penal. Esto incluye casos como la edición, venta o reproducción no autorizada del software, y permite al autor reclamar daños y perjuicios por la violación de sus derechos.
-Tambien, el artículo 55 bis introduce que la explotación de la propiedad intelectual sobre programas de computación puede incluir, entre otras formas, los contratos de licencia para su uso o reproducción, otorgando al titular del derecho la capacidad de controlar y defender legalmente el uso de su software.
-
-6- Si un integrante divulgase los datos, los demás integrantes deben iniciar una demanda por daños y perjuicios porque el código penal en su art 153 establece que a quien accediere por cualquier medio, sin la debida autorización o excediendo la que posea, a un sistema o dato informático de acceso restringido será penado por ley. 
-
-7- Si un programador reutilizara codigo, se puede considerar como violación a la propiedad intelectual, que avalados por el codigo penal en el artículo 172 trata sobre estafas y otras defraudaciones “Será reprimido con prisión el que defraudare a otro con nombre supuesto, calidad simulada, falsos títulos, influencia mentida, abuso de confianza o aparentando bienes, crédito, comisión, empresa o negociación o valiéndose de cualquier otro ardid o engaño.” Como asi tambien la ley 11.723 iniciando acciones civiles por violación de derechos de autor.
-
-12- Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
-ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
-ARGBroker implementará medidas de seguridad para proteger los datos de los usuarios, realizando pruebas de riesgo y actualizando las medidas periódicamente.
-
-13- En caso de que el cliente decida reemplazar el sistema por el de otro proveedor, ARGBroker se compromete a garantizar una transición ética y profesional. Esto incluye mantener una comunicación abierta y colaborativa tanto con el cliente como con los colegas, asegurando la confidencialidad y la integridad de la información del cliente, y cumpliendo con todas las obligaciones legales correspondientes. 
-ARGBroker seguirá los lineamientos establecidos por el Consejo Profesional de Ciencias Informáticas, respetando los principios éticos y las buenas prácticas de la profesión.
+ 
