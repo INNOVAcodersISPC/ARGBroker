@@ -79,6 +79,8 @@ También, al respecto, pueden citarse los artículos 9 y 10 del mismo código, q
 
 11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. $\color{#ff63b8}{\textsf{NANU}}$
 
+ Si los programadores de ARGBroker incurren en negligencia se va a presentar una denuncia ante el Consejo Profesional de Ciencias Informáticas de la Provincia de Córdoba (CPCIPC) y asi poder reclamar por daños y perjuicios en el incumplimiento del contrato de servicios profesionales.
+
 Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
 ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
 ARGBroker implementará medidas de seguridad para proteger los datos de los usuarios, realizando pruebas de riesgo y actualizando las medidas periódicamente.
