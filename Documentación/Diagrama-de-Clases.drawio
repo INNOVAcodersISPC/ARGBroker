@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T01:41:27.980Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ATJi_7pw15e4pj2nefU-" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T01:42:02.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3Xx0xMpkpwwNmrpuLyvu" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="880" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,6 +37,9 @@
         </mxCell>
         <mxCell id="mTbjINKqypKUPINs6Hyn-132" value="+ verTotalInvertido()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" parent="mTbjINKqypKUPINs6Hyn-123" vertex="1">
           <mxGeometry y="190" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mTbjINKqypKUPINs6Hyn-128" value="- perdida: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" parent="mTbjINKqypKUPINs6Hyn-123" vertex="1">
+          <mxGeometry y="216" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mTbjINKqypKUPINs6Hyn-133" value="Empresa (Clase)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1250" y="62" width="170" height="372" as="geometry">
@@ -213,9 +216,6 @@
         </mxCell>
         <mxCell id="t89FGCKtv_TSO_w-eXg2-1" value="&lt;h1 align=&quot;right&quot; style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;&lt;p align=&quot;right&quot;&gt;Clase abstracta de la que heredan PersonaFisica y PersonaJuridica, y que representan tanto a personas físicas como jurídicas que pueden ser &lt;u&gt;inversores&lt;/u&gt;. &lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="230" y="65" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="mTbjINKqypKUPINs6Hyn-128" value="- perdida: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="460" y="808" width="270" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
