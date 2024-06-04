@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T09:54:51.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="JH1BOVYWQcDiIlXmU_TH" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T15:05:16.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="qYVOIUtOniUOxwIZvnoe" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="4027" dy="2386" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1701" dy="1637" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,15 +30,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-24" value="Inversor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="285" y="-550" width="155" height="185" as="geometry" />
+          <mxGeometry x="272.5" y="-578" width="155" height="185" as="geometry" />
         </mxCell>
-        <mxCell id="7hoT9Ia_uspJayf44At0-25" value="identificador_fiscal PK&lt;div&gt;&lt;div&gt;simbolo_imagen&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;tipo_persona&lt;/div&gt;&lt;div&gt;direccion&lt;br&gt;&lt;/div&gt;&lt;div&gt;telefono&lt;br&gt;&lt;/div&gt;&lt;div&gt;correo_electronico&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-24" vertex="1">
+        <mxCell id="7hoT9Ia_uspJayf44At0-25" value="identificador_fiscal PK&lt;div&gt;id_uduario&amp;nbsp; &amp;nbsp; &amp;nbsp;FK&lt;br&gt;&lt;div&gt;&lt;div&gt;simbolo_imagen&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;tipo_persona&lt;/div&gt;&lt;div&gt;direccion&lt;br&gt;&lt;/div&gt;&lt;div&gt;telefono&lt;br&gt;&lt;/div&gt;&lt;div&gt;correo_electronico&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-24" vertex="1">
           <mxGeometry y="50" width="155" height="135" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-33" value="Usuario" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="595" y="-570" width="175" height="167.5" as="geometry" />
+          <mxGeometry x="555" y="-584" width="175" height="167.5" as="geometry" />
         </mxCell>
-        <mxCell id="7hoT9Ia_uspJayf44At0-34" value="&lt;span style=&quot;background-color: initial;&quot;&gt;nombre_usuario PK&lt;/span&gt;&lt;div&gt;&lt;div&gt;inversor FK&lt;/div&gt;&lt;div&gt;contraseña&lt;/div&gt;&lt;div&gt;saldo_inicial&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-33" vertex="1">
+        <mxCell id="7hoT9Ia_uspJayf44At0-34" value="&lt;div&gt;nombre_usuario&amp;nbsp; &amp;nbsp;PK&lt;br&gt;&lt;div&gt;&lt;div&gt;contraseña&lt;/div&gt;&lt;div&gt;saldo_inicial&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-33" vertex="1">
           <mxGeometry y="50" width="175" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-37" value="Portafolio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -48,7 +48,7 @@
           <mxGeometry y="50" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-45" value="Empresa" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="-280" width="170" height="230" as="geometry" />
+          <mxGeometry x="368" y="-280" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-46" value="id_empresa PK&lt;div&gt;nombre_empresa&lt;/div&gt;&lt;div&gt;cantidad_acciones&lt;/div&gt;&lt;div&gt;precio_actual_compra&lt;/div&gt;&lt;div&gt;precio_actual_venta&lt;/div&gt;&lt;div&gt;cantidad_compra_diaria&lt;br&gt;cantidad_venta_diaria&lt;/div&gt;&lt;div&gt;precio_apertura&lt;/div&gt;&lt;div&gt;precio_minimo_diario&lt;/div&gt;&lt;div&gt;precio_maximo_diario&lt;/div&gt;&lt;div&gt;precio_cierre&amp;nbsp;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-45" vertex="1">
           <mxGeometry y="50" width="170" height="180" as="geometry" />
@@ -66,7 +66,7 @@
           <mxGeometry y="50" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AP3MOZmC3ACQSBozkBBV-1" value="ElementoPortafolio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="-600" width="170" height="155" as="geometry" />
+          <mxGeometry x="1055" y="-680" width="170" height="155" as="geometry" />
         </mxCell>
         <mxCell id="AP3MOZmC3ACQSBozkBBV-2" value="&lt;div&gt;id_elemento_portafolio&amp;nbsp; PK&lt;/div&gt;&lt;div&gt;id_portafolio&amp;nbsp; &amp;nbsp;FK&lt;/div&gt;&lt;div&gt;id_empresa&amp;nbsp; &amp;nbsp; FK&lt;/div&gt;&lt;div&gt;cantidad_acciones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="AP3MOZmC3ACQSBozkBBV-1" vertex="1">
           <mxGeometry y="50" width="170" height="105" as="geometry" />
