@@ -104,8 +104,21 @@ En caso de que el cliente decida reemplazar el sistema por el de otro proveedor,
 ARGBroker seguirá los lineamientos establecidos por el Consejo Profesional de Ciencias Informáticas, respetando los principios éticos y las buenas prácticas de la profesión.
 
 14. Si un usuario denuncia a ARGBroker por divulgación de sus datos personales, a que legislación recurrió el mismo y como ARGBroker puede respaldarse jurídicamente. $\color{#ff63b8}{\textsf{NANU}}$
+Cuando el usuario denuncia a ARGBroker por la divulgación de sus datos personales, se recurre a la Ley de Protección de Datos Personales N° 25.326. Esta ley establece el marco legal para la protección de los datos personales y regula su tratamiento, almacenamiento y transferencia.
+ARGBroker puede respalderse de la siguiente manera:
+-  Implementar una política de privacidad clara y accesible que informe a los usuarios sobre cómo se recopilan, usan y protegen sus datos personales.
+-  Asegurarse de que se obtenga el consentimiento explícito de los usuarios antes de recolectar y usar sus datos. Esto incluye mantener registros de dicho consentimiento.
+-  Implementar medidas de seguridad adecuadas, como encriptación y controles de acceso, para proteger los datos personales.
+-  Capacitar a los empleados sobre la importancia de la protección de datos personales y las prácticas adecuadas para garantizar el cumplimiento de la ley.
+-  Mantener registros detallados de las políticas de protección de datos, medidas de seguridad implementadas y actividades de tratamiento de datos personales.
+-  Documentar las solicitudes de acceso, rectificación, supresión y oposición recibidas de los usuarios y las acciones tomadas en respuesta.
+-  Realizar evaluaciones periódicas de impacto sobre la protección de datos para identificar y mitigar riesgos.
+-  Realizar auditorías internas y externas para verificar el cumplimiento de la ley y las políticas de protección de datos.
+-  Consultar regularmente con abogados especializados en protección de datos para asegurarse de que las prácticas de la empresa estén alineadas con la legislación vigente.
+-  Contar con asesoría legal en caso de denuncias para preparar una defensa adecuada y responder a las investigaciones de la autoridad de control.
+En resumen, la Ley de Protección de Datos Personales N° 25.326 es la legislación a la que recurrirá un usuario en caso de denuncia por divulgación indebida de datos personales. Para respaldarse jurídicamente, una empresa debe asegurarse de cumplir rigurosamente con esta ley, implementando medidas de seguridad, obteniendo el consentimiento de los usuarios y manteniendo una documentación detallada y actualizada sobre el tratamiento de datos personales.
 
-15. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
+16. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
 Empleados) y si tendrán un contrato con qué cláusulas.
 
 15- El grupo estara conformado por una empresa llamada ARGBroker, donde todos los integrantes seran socios igualitarios y tendran las mismas obligaciones y responsabilidades ante la ley. Una de las clausulas sera el objetivo de la creacion de la empresa. Otra de las clausulas del contrato dictara que todo software creado por la empresa ARGBroker, pertenecera a la misma y no a sus integrantes, evitando asi el reclamo de derechos individuales sobre dicho software, evitando conflictos de propiedad por alguna posible partida de alguno de los integrantes de la empresa.
