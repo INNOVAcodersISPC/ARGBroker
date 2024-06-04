@@ -79,7 +79,18 @@ También, al respecto, pueden citarse los artículos 9 y 10 del mismo código, q
 
 11. Cuando los programadores de ARGBroker incurren en una negligencia, a que instrumento legal se acude y quien. $\color{#ff63b8}{\textsf{NANU}}$
 
- Si los programadores de ARGBroker incurren en negligencia se va a presentar una denuncia ante el Consejo Profesional de Ciencias Informáticas de la Provincia de Córdoba (CPCIPC) y asi poder reclamar por daños y perjuicios en el incumplimiento del contrato de servicios profesionales.
+La Ley Provincial N° 7642/87 me dice que si los programadores (matriculados) de ARGBroker incurren en negligencia se puede presentar una denuncia ante el Consejo Profesional de Ciencias Informáticas de la Provincia de Córdoba (CPCIPC) y asi poder puede evaluar el caso y aplicar sanciones disciplinarias según corresponda como ser por daños y perjuicios en el incumplimiento del contrato de servicios profesionales.
+
+En casos graves donde la negligencia puede constituir un delito, como daños intencionales a sistemas informáticos o fraude informático, se puede recurrir al Código Penal que, tras la Ley 26.388, incluye disposiciones específicas para delitos informáticos.
+
+Proceso a Seguir
+- Reunir Evidencia: Documentar todas las evidencias del daño causado por la negligencia del programador.
+- Asesoramiento Legal: Consultar con un abogado para evaluar las opciones legales y preparar la demanda.
+- Presentar Denuncia: Dependiendo del caso, presentar la denuncia ante el Consejo Profesional de Ciencias Informáticas, la Dirección de Defensa del Consumidor, o iniciar una demanda civil o penal ante los tribunales competentes.
+- Mediación y Resolución: En algunos casos, puede ser posible resolver el conflicto a través de mediación antes de llegar a juicio.
+En resumen, hay varias vías legales disponibles para abordar la negligencia de los programadores en Córdoba, Argentina, dependiendo de la naturaleza del daño y el contexto en el que ocurrió.
+
+
 
 Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
 ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
