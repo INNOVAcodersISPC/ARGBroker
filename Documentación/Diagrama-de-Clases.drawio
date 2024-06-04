@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T02:59:40.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Gvuy2KCCnc4Eute9ehEf" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T03:21:24.361Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="47y5ArNveTCwIdAVgHdQ" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1509" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-322" value="Portafolio" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="530" width="270" height="268" as="geometry">
+          <mxGeometry x="300" y="530" width="270" height="320" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -34,10 +34,10 @@
         <mxCell id="b0VkS6RjwoxMPixa-aZO-326" value="- simboloAccionComprada: str" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="104" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-327" value="- ganancia: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-327" value="- gananciaTotal: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="130" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-328" value="- perdida: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-328" value="- perdidaTotal: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="156" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-329" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
@@ -46,11 +46,17 @@
         <mxCell id="b0VkS6RjwoxMPixa-aZO-330" value="+ verSaldoCuentaDemo()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="190" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-331" value="+ actualizarGananciaPerdida(precioActual): void" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-387" value="- sumarAccionComprada(simbolo, cant, precio)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="216" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-332" value="+ verTotalInvertido()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-388" value="- restarAccionVendida()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
           <mxGeometry y="242" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-331" value="- actualizarGananciaPerdida(precioActual)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+          <mxGeometry y="268" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-332" value="- verTotalInvertido()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-322">
+          <mxGeometry y="294" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-333" value="Empresa (Clase)" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="112" width="170" height="372" as="geometry">
@@ -97,42 +103,45 @@
           <mxGeometry y="320" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-347" value="Transaccion" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="950" y="230" width="240" height="328" as="geometry">
+          <mxGeometry x="950" y="230" width="240" height="354" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-348" value="- idTransaccion: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-389" value="- idInversor: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="26" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-349" value="- tipo: String (compra/venta)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-348" value="- idTransaccion: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="52" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-350" value="- accion: Accion" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-349" value="- tipo: String (compra/venta)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="78" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-351" value="- cantidad: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-350" value="- accion: Accion" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="104" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-352" value="- precio: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-351" value="- cantidad: int" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="130" width="240" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-353" value="- fechaHora: Date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-352" value="- precio: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
           <mxGeometry y="156" width="240" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-353" value="- fechaHora: Date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
+          <mxGeometry y="182" width="240" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-354" value="- comision: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
-          <mxGeometry y="182" width="240" height="28" as="geometry" />
+          <mxGeometry y="208" width="240" height="28" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-386" value="- costoTotal: float" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
-          <mxGeometry y="210" width="240" height="28" as="geometry" />
+          <mxGeometry y="236" width="240" height="28" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-355" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
-          <mxGeometry y="238" width="240" height="10" as="geometry" />
+          <mxGeometry y="264" width="240" height="10" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-356" value="&lt;span style=&quot;color: rgb(70, 73, 93); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;+ calcularComision():&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; color: rgb(70, 73, 93); background-color: initial;&quot;&gt;+ consultarComision()&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;+ ejecutarCompra()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-347">
-          <mxGeometry y="248" width="240" height="80" as="geometry" />
+          <mxGeometry y="274" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-357" value="Inversor (Clase)" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="112" width="160" height="310" as="geometry">
+          <mxGeometry x="620" y="112" width="160" height="280" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -160,20 +169,17 @@
         <mxCell id="b0VkS6RjwoxMPixa-aZO-364" value="+ cambiarContrasena()" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
           <mxGeometry y="194" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-365" value="+ obtenerTotalInvertido()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-366" value="+ obtenerPortafolios()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
           <mxGeometry y="220" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-366" value="+ obtenerPortafolios()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-367" value="+ obtenerSaldo ()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
           <mxGeometry y="250" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="b0VkS6RjwoxMPixa-aZO-367" value="+ obtenerSaldo ()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#46495D;fontStyle=0;labelBackgroundColor=none;" vertex="1" parent="b0VkS6RjwoxMPixa-aZO-357">
-          <mxGeometry y="280" width="160" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-368" value="Transacción:&#xa;&#xa;Intermedia entre el usuario y la acción&#xa;para calcular la comision y que al realizar&#xa; una compra o venta este obtenga la &#xa;informacion actualizada en su portfolio." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1051" y="560" width="269" height="128" as="geometry" />
+          <mxGeometry x="1240" y="610" width="269" height="128" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-369" value="Portfolio:&#xa;&#xa;Posesión actualizada de las acciones&#xa;del usuario." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1051" y="688" width="259" height="128" as="geometry" />
+          <mxGeometry x="1240" y="722" width="259" height="128" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b0VkS6RjwoxMPixa-aZO-374" target="b0VkS6RjwoxMPixa-aZO-358">
           <mxGeometry relative="1" as="geometry">
@@ -212,7 +218,7 @@
           <mxGeometry x="100" y="820" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-379" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Herencia&lt;/h1&gt;&lt;div&gt;Cuando se realiza la herrencia de clases los atributos y metodos se heredan, es decir que lo podemos utilizar&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="816" width="180" height="120" as="geometry" />
+          <mxGeometry x="414" y="880" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-380" value="&lt;h1 align=&quot;right&quot; style=&quot;margin-top: 0px;&quot;&gt;Usuario&lt;/h1&gt;&lt;p align=&quot;right&quot;&gt;Clase abstracta de la que heredan PersonaFisica y PersonaJuridica, y que representan tanto a personas físicas como jurídicas que pueden ser &lt;u&gt;inversores&lt;/u&gt;. &lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="115" width="320" height="120" as="geometry" />
@@ -227,7 +233,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="b0VkS6RjwoxMPixa-aZO-383" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="422" width="20" height="20" as="geometry" />
+          <mxGeometry x="690" y="392" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b0VkS6RjwoxMPixa-aZO-391" value="Un Inversor puede tener uno o más Portafolios&#xa;y un portafolio es dependiente de un inversor" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="660" y="670" width="259" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
