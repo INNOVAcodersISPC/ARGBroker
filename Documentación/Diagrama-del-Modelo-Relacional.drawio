@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T05:20:29.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="eDvmgChgE5_FXGLHQb2k" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T05:21:33.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="m93Fz_H_3AQFmMs-eHU_" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="880" dy="1629" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="7hoT9Ia_uspJayf44At0-50" value="id_transaccion&amp;nbsp; PK&lt;div&gt;id_elemento_portafolio FK&lt;br&gt;&lt;/div&gt;&lt;div&gt;tipo_operacion FK&lt;/div&gt;&lt;div&gt;fecha&lt;/div&gt;&lt;div&gt;precio&lt;/div&gt;&lt;div&gt;cantidad_transaccion&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-49" vertex="1">
           <mxGeometry y="50" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="AP3MOZmC3ACQSBozkBBV-1" value="ElementoPortafolio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AP3MOZmC3ACQSBozkBBV-1" value="Elemento_portafolio" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="716.5" y="-629" width="183" height="170" as="geometry" />
         </mxCell>
         <mxCell id="AP3MOZmC3ACQSBozkBBV-2" value="&lt;div&gt;id_elemento_portafolio&amp;nbsp; PK&lt;/div&gt;&lt;div&gt;id_portafolio&amp;nbsp; &amp;nbsp;FK&lt;/div&gt;&lt;div&gt;id_empresa&amp;nbsp; &amp;nbsp; FK&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="AP3MOZmC3ACQSBozkBBV-1" vertex="1">
