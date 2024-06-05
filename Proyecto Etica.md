@@ -92,14 +92,9 @@ Proceso a Seguir
 - Mediación y Resolución: En algunos casos, puede ser posible resolver el conflicto a través de mediación antes de llegar a juicio.
 En resumen, hay varias vías legales disponibles para abordar la negligencia de los programadores en Córdoba, Argentina, dependiendo de la naturaleza del daño y el contexto en el que ocurrió.
 
-
-
-Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
+12. Con el consentimiento previo del usuario, ARGBroker se compromete a obtener únicamente los datos personales necesarios para operar la aplicación. En caso de que ARGBroker considere necesario compartir los datos del usuario con terceros, se solicitará el consentimiento previo del mismo, informando claramente a quién y con qué fines se compartirán. El usuario puede retirar su consentimiento en cualquier momento.
 ARGBroker se compromete a informar al cliente sobre sus derechos en relación con sus datos personales (Ley 25.326, art. 16), incluyendo el acceso a los datos, así como su rectificación y/o supresión.
 ARGBroker implementará medidas de seguridad para proteger los datos de los usuarios, realizando pruebas de riesgo y actualizando las medidas periódicamente.
- 
-
-12. Cómo ARGBroker debe implementar seguridad según la Ley de Protección de Datos Personales.
 
 13. Si el cliente decide reemplazar a ARGBroker por otro proveedor, describir cómo se debe actuar de manera ética ante el cliente y los colegas.
 En caso de que el cliente decida reemplazar el sistema por el de otro proveedor, ARGBroker se compromete a garantizar una transición ética y profesional. Esto incluye mantener una comunicación abierta y colaborativa tanto con el cliente como con los colegas, asegurando la confidencialidad y la integridad de la información del cliente, y cumpliendo con todas las obligaciones legales correspondientes. 
