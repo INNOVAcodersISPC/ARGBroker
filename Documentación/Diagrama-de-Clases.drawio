@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T21:47:04.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hxFMGNp_Iz3CgL8XukJd" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T02:45:15.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nOQ3JN4jgiJxeRvurdMU" version="24.4.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -243,6 +243,32 @@
         </mxCell>
         <mxCell id="CtIyU9bfVXKgWF2Kkccr-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Sistema&lt;/h1&gt;&lt;div&gt;Que me pide;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;logear&lt;/div&gt;&lt;div&gt;crear cuenta&lt;/div&gt;&lt;div&gt;get acciones (todas)&lt;/div&gt;&lt;div&gt;get accion (la selecionada)&lt;/div&gt;&lt;div&gt;get parametro (parametro)&lt;/div&gt;&lt;div&gt;get totalInvertido&lt;/div&gt;&lt;div&gt;get saldo&lt;/div&gt;&lt;div&gt;get acciones por usuario&lt;/div&gt;&lt;div&gt;validad usuario&lt;/div&gt;&lt;div&gt;get usuario&lt;/div&gt;&lt;p&gt;detalle de accion (Empresa)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="970" y="674" width="180" height="316" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4ZVeGR4BuKe1Iovd7hrI" name="Página-2">
+    <mxGraphModel dx="880" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-6" value="Inversor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-7" value="nombreUsuario&lt;div&gt;contraseña&lt;/div&gt;&lt;div&gt;identificadorFiscal&lt;/div&gt;&lt;div&gt;simboloImagen&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;topipersona&lt;/div&gt;&lt;div&gt;direccion&lt;/div&gt;&lt;div&gt;tel&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="wsrzO-3s8T7WjqGBVJkr-6">
+          <mxGeometry y="50" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-8" value="Inversor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="170" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-9" value="nombreUsuario -&lt;div&gt;contraseña&amp;nbsp;&lt;/div&gt;&lt;div&gt;identificadorFiscal&lt;/div&gt;&lt;div&gt;simboloImagen&lt;/div&gt;&lt;div&gt;nombre&lt;/div&gt;&lt;div&gt;apellido&lt;/div&gt;&lt;div&gt;topipersona&lt;/div&gt;&lt;div&gt;direccion&lt;/div&gt;&lt;div&gt;tel&lt;/div&gt;&lt;div&gt;email&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="wsrzO-3s8T7WjqGBVJkr-8">
+          <mxGeometry y="50" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-10" value="Empresa" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="180" width="220" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="wsrzO-3s8T7WjqGBVJkr-11" value="idEmpresa&lt;div&gt;id TipoInversion&lt;/div&gt;&lt;div&gt;nombreEmpresa&lt;/div&gt;&lt;div&gt;CantidadAcciones&lt;/div&gt;&lt;div&gt;precioActualCompra&lt;/div&gt;&lt;div&gt;precioActualVenta&lt;/div&gt;&lt;div&gt;cantidadCompradiaria&lt;/div&gt;&lt;div&gt;cantidadVentadiaria&lt;/div&gt;&lt;div&gt;precioApertura&lt;/div&gt;&lt;div&gt;PrecioMinimoDiario&lt;/div&gt;&lt;div&gt;PrecioMaximoDiario&lt;/div&gt;&lt;div&gt;PrecioCierre&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" vertex="1" parent="wsrzO-3s8T7WjqGBVJkr-10">
+          <mxGeometry y="50" width="220" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
