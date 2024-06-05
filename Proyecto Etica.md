@@ -2,7 +2,8 @@
 > Elegir dos puntos cada uno para ir desarrollando (resaltar)
 ## Puntos a realizar:
 
-1. Describir quiénes y ante quien deben matricularse a nivel provincial para ejercer la Profesión.
+1. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO, Empleados) y si tendrán un contrato con qué cláusulas.
+2.  Describir quiénes y ante quien deben matricularse a nivel provincial para ejercer la Profesión.
 
 1- Todos los integrantes de la empresa ARGBroker deberian matricularse ante el Consejo Profesional de Ciencias Informaticas de la Provincia de Cordoba segun lo establecido en la ley provincial N° 7642.
 
@@ -115,8 +116,7 @@ ARGBroker puede respalderse de la siguiente manera:
 -  Contar con asesoría legal en caso de denuncias para preparar una defensa adecuada y responder a las investigaciones de la autoridad de control.
 En resumen, la Ley de Protección de Datos Personales N° 25.326 es la legislación a la que recurrirá un usuario en caso de denuncia por divulgación indebida de datos personales. Para respaldarse jurídicamente, una empresa debe asegurarse de cumplir rigurosamente con esta ley, implementando medidas de seguridad, obteniendo el consentimiento de los usuarios y manteniendo una documentación detallada y actualizada sobre el tratamiento de datos personales.
 
-16. Describir cómo el grupo se conforma como instrumento legal (Empresa, Socios, CEO,
-Empleados) y si tendrán un contrato con qué cláusulas.
+16. 
 
 15- El grupo estara conformado por una empresa llamada ARGBroker, donde todos los integrantes seran socios igualitarios y tendran las mismas obligaciones y responsabilidades ante la ley. Una de las clausulas sera el objetivo de la creacion de la empresa. Otra de las clausulas del contrato dictara que todo software creado por la empresa ARGBroker, pertenecera a la misma y no a sus integrantes, evitando asi el reclamo de derechos individuales sobre dicho software, evitando conflictos de propiedad por alguna posible partida de alguno de los integrantes de la empresa.
  
