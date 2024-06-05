@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T05:18:14.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MTiwrNG2I-aqer9_B1nv" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T05:20:29.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="eDvmgChgE5_FXGLHQb2k" version="24.4.13" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="838" dy="1607" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="880" dy="1629" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,10 +47,10 @@
         <mxCell id="7hoT9Ia_uspJayf44At0-46" value="id_empresa PK&lt;div&gt;id_tipo_inversion FK&lt;br&gt;&lt;div&gt;nombre_empresa&lt;/div&gt;&lt;div&gt;cantidad_acciones&lt;/div&gt;&lt;div&gt;precio_actual_compra&lt;/div&gt;&lt;div&gt;precio_actual_venta&lt;/div&gt;&lt;div&gt;cantidad_compra_diaria&lt;br&gt;cantidad_venta_diaria&lt;/div&gt;&lt;div&gt;precio_apertura&lt;/div&gt;&lt;div&gt;precio_minimo_diario&lt;/div&gt;&lt;div&gt;precio_maximo_diario&lt;/div&gt;&lt;div&gt;precio_cierre&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-45" vertex="1">
           <mxGeometry y="50" width="170" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="7hoT9Ia_uspJayf44At0-47" value="TipoInversion" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7hoT9Ia_uspJayf44At0-47" value="Tipo_inversion" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="718" y="-430" width="183" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="7hoT9Ia_uspJayf44At0-48" value="id_tipo_inversor&amp;nbsp; PK&amp;nbsp; &amp;nbsp;&lt;div&gt;descripcion&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-47" vertex="1">
+        <mxCell id="7hoT9Ia_uspJayf44At0-48" value="id_tipo_inversion&amp;nbsp; PK&amp;nbsp; &amp;nbsp;&lt;div&gt;descripcion&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;" parent="7hoT9Ia_uspJayf44At0-47" vertex="1">
           <mxGeometry y="50" width="183" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-49" value="DetalleTransaccion" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
