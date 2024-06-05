@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T03:43:00.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_BHtABhaOhi46UTySdHL" version="24.4.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-05T03:43:05.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="g_8mCHhq3RAf0JUBDY8D" version="24.4.13" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,16 +253,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CIcNm4OBHEdbPMppbDrD-1" value="Inversor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="130" width="160" height="370" as="geometry" />
+          <mxGeometry x="130" y="130" width="170" height="350" as="geometry" />
         </mxCell>
         <mxCell id="CIcNm4OBHEdbPMppbDrD-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- nombreUsuario&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- contraseña&amp;nbsp;&lt;/div&gt;&lt;div&gt;- identificadorFiscal&lt;/div&gt;&lt;div&gt;- simboloImagen&lt;/div&gt;&lt;div&gt;- nombre&lt;/div&gt;&lt;div&gt;- apellido&lt;/div&gt;&lt;div&gt;- tipopersona&lt;/div&gt;&lt;div&gt;&amp;nbsp;- direccion&lt;/div&gt;&lt;div&gt;- tel&lt;/div&gt;&lt;div&gt;- email&lt;/div&gt;&lt;div&gt;- saldo&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CIcNm4OBHEdbPMppbDrD-1" vertex="1">
-          <mxGeometry y="26" width="160" height="194" as="geometry" />
+          <mxGeometry y="26" width="170" height="174" as="geometry" />
         </mxCell>
         <mxCell id="CIcNm4OBHEdbPMppbDrD-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="CIcNm4OBHEdbPMppbDrD-1" vertex="1">
-          <mxGeometry y="220" width="160" height="8" as="geometry" />
+          <mxGeometry y="200" width="170" height="8" as="geometry" />
         </mxCell>
         <mxCell id="CIcNm4OBHEdbPMppbDrD-4" value="+ crearCuenta()&lt;div&gt;+ validarUsuario()&lt;/div&gt;&lt;div&gt;+logear()&lt;br&gt;&lt;div&gt;+cambiarNombre()&lt;/div&gt;&lt;div&gt;+cambiiarSimbolo()&lt;/div&gt;&lt;/div&gt;&lt;div&gt;+getSaldo()&lt;/div&gt;&lt;div&gt;+getTotalInvertido()&lt;/div&gt;&lt;div&gt;+ comprar ()&lt;/div&gt;&lt;div&gt;+ vender ()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="CIcNm4OBHEdbPMppbDrD-1" vertex="1">
-          <mxGeometry y="228" width="160" height="142" as="geometry" />
+          <mxGeometry y="208" width="170" height="142" as="geometry" />
         </mxCell>
         <mxCell id="w0gHt6fkLmcZtoDT3hkJ-1" value="Empresa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="130" width="160" height="338" as="geometry" />
