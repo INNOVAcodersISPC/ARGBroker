@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T19:44:42.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="ELcn2qSA0mmi8s8-s-Ga" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-05T19:56:09.744Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="Eu4UyZ_LHnNkU7OIIgKO" version="24.4.14" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -303,11 +303,17 @@
         <mxCell id="BHIDUtEeofO8fUMYcxUe-1" value="Documentacion del Diagrama clases" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dp2O6RuKghiQ1Xqcgd2R-2" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="2CnnzSdIaAbvqcPdmJ7h-2" edge="1">
+        <mxCell id="dp2O6RuKghiQ1Xqcgd2R-2" value="1" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;" parent="1" target="2CnnzSdIaAbvqcPdmJ7h-2" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
             <mxPoint x="180" y="160" as="sourcePoint" />
             <mxPoint x="270" y="160" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VErTfWRlACyQmQyC-tgp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.208;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;startArrow=diamondThin;startFill=0;endSize=12;startSize=14;" edge="1" parent="1" source="CIcNm4OBHEdbPMppbDrD-4" target="Udiot9RHwUiTkLpyKNF2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VErTfWRlACyQmQyC-tgp-10" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
