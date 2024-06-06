@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T01:45:40.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="0jC2KUHUWNPKBKUpSq8H" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-06T01:45:50.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="OSoUk5ET2tXsnVZdFwOd" version="24.4.14" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -285,7 +285,7 @@
         <mxCell id="Udiot9RHwUiTkLpyKNF2-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
           <mxGeometry y="170" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Udiot9RHwUiTkLpyKNF2-4" value="+ calcularComision()&lt;div&gt;+consultarComision()&lt;/div&gt;&lt;div&gt;+ ejecutarCompra()&lt;/div&gt;&lt;div&gt;+ ejecutarVenta ()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
+        <mxCell id="Udiot9RHwUiTkLpyKNF2-4" value="+ calcularComision()&lt;div&gt;+ consultarComision()&lt;/div&gt;&lt;div&gt;+ ejecutarCompra()&lt;/div&gt;&lt;div&gt;+ ejecutarVenta ()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
           <mxGeometry y="178" width="180" height="92" as="geometry" />
         </mxCell>
         <mxCell id="BHIDUtEeofO8fUMYcxUe-1" value="Documentación del Diagrama clases&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1- Inversor:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2- Empresa:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3- Portafolio:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4- Transacción:&amp;nbsp;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
