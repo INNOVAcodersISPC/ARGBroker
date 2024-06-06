@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T02:31:46.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NB--gd-Fn03JYpktDrt5" version="24.4.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-06T03:08:58.045Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2ZnKY4N-GJoadln9BVfU" version="24.4.14" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,12 +248,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4ZVeGR4BuKe1Iovd7hrI" name="Página-2">
-    <mxGraphModel dx="2261" dy="1909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w0gHt6fkLmcZtoDT3hkJ-1" value="Empresa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="730" y="60" width="190" height="270" as="geometry" />
+          <mxGeometry x="907" y="220" width="190" height="270" as="geometry" />
         </mxCell>
         <mxCell id="w0gHt6fkLmcZtoDT3hkJ-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;- idEmpresa: int&lt;div&gt;- idTipoInversion: int&lt;/div&gt;&lt;div&gt;- nombreEmpresa: str&lt;/div&gt;&lt;div&gt;- CantidadAcciones: int&lt;/div&gt;&lt;div&gt;- precioActualCompra: float&lt;/div&gt;&lt;div&gt;- precioActualVenta: float&lt;/div&gt;&lt;div&gt;- cantidadCompradiaria: float&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- cantidadVentadiaria: int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- precioApertura: float&lt;/div&gt;&lt;div&gt;- PrecioMinimoDiario: float&amp;nbsp;&lt;/div&gt;&lt;div&gt;- PrecioMaximoDiario: float&lt;/div&gt;&lt;div&gt;- PrecioCierre: float&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="w0gHt6fkLmcZtoDT3hkJ-1" vertex="1">
           <mxGeometry y="26" width="190" height="194" as="geometry" />
@@ -265,16 +265,16 @@
           <mxGeometry y="228" width="190" height="42" as="geometry" />
         </mxCell>
         <mxCell id="2CnnzSdIaAbvqcPdmJ7h-1" value="Portafolio" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="40" width="200" height="230" as="geometry" />
+          <mxGeometry x="370" y="40" width="220" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="2CnnzSdIaAbvqcPdmJ7h-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- portafolio:Lista&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- valorComprometido: float&lt;/div&gt;&lt;div&gt;- cantidadComprada: float&lt;/div&gt;&lt;div&gt;- simboloAccionComprada: str&lt;/div&gt;&lt;div&gt;- ganaciaTotal: float&lt;/div&gt;&lt;div&gt;- perdidaTotal: float&lt;/div&gt;&lt;div&gt;- saldo: float&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2CnnzSdIaAbvqcPdmJ7h-1" vertex="1">
-          <mxGeometry y="26" width="200" height="114" as="geometry" />
+        <mxCell id="2CnnzSdIaAbvqcPdmJ7h-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- acciones: AccionesCompradas[]&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- valorComprometido: float&lt;/div&gt;&lt;div&gt;- cantidadComprada: float&lt;/div&gt;&lt;div&gt;- simboloAccionComprada: str&lt;/div&gt;&lt;div&gt;- ganaciaTotal: float&lt;/div&gt;&lt;div&gt;- perdidaTotal: float&lt;/div&gt;&lt;div&gt;- saldo: float&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2CnnzSdIaAbvqcPdmJ7h-1" vertex="1">
+          <mxGeometry y="26" width="220" height="114" as="geometry" />
         </mxCell>
         <mxCell id="2CnnzSdIaAbvqcPdmJ7h-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="2CnnzSdIaAbvqcPdmJ7h-1" vertex="1">
-          <mxGeometry y="140" width="200" height="8" as="geometry" />
+          <mxGeometry y="140" width="220" height="8" as="geometry" />
         </mxCell>
         <mxCell id="2CnnzSdIaAbvqcPdmJ7h-4" value="+ verSaldoCuenta()&lt;div&gt;+ actualizarGananciaPerdida()&lt;/div&gt;&lt;div&gt;+ verTotalInvertido ()&lt;/div&gt;&lt;div&gt;+ vender ()&lt;/div&gt;&lt;div&gt;+ verValorComprometido ()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2CnnzSdIaAbvqcPdmJ7h-1" vertex="1">
-          <mxGeometry y="148" width="200" height="82" as="geometry" />
+          <mxGeometry y="148" width="220" height="82" as="geometry" />
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-1" value="Transaccion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="380" y="345" width="180" height="240" as="geometry" />
@@ -289,7 +289,7 @@
           <mxGeometry y="178" width="180" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BHIDUtEeofO8fUMYcxUe-1" value="Documentación del Diagrama clases&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;0- UsuarioLogin: Al entrar al broker se debe hacer un login, el cual vlaidará si el usuario es nuevo o no ya que cada usuario debe tener un nombre único&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1- Inversor: Una vez ingresado en el sistema el usuario toma el rol de inversor y se trae su información desde la base de datos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2- Portafolio: Cada usuario tiene un portafolio el cual es único, este contiene toda la información actualizada de sus acciones.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3- Empresa: Es un panel que muestra datos relacionados a todas las acciones disponibles de otras empresas.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4- Transacción: Nos muestra la operación efectuada a la hora de la compra o venta de acciones, nos brinda información respecto de la operación efectuada teniendo en cuenta el cobro de la comisión que se queda el broker.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="50" width="290" height="460" as="geometry" />
+          <mxGeometry x="1241" y="50" width="290" height="460" as="geometry" />
         </mxCell>
         <mxCell id="dp2O6RuKghiQ1Xqcgd2R-2" value="1" style="endArrow=none;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;endFill=0;exitX=1.007;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YR4OArcNj85Ic_sHVcnc-13" target="2CnnzSdIaAbvqcPdmJ7h-2" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
@@ -309,13 +309,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="560" y="440" />
-              <mxPoint x="640" y="440" />
-              <mxPoint x="640" y="118" />
+              <mxPoint x="800" y="440" />
+              <mxPoint x="800" y="278" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VErTfWRlACyQmQyC-tgp-13" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="650" y="90" width="40" height="30" as="geometry" />
+          <mxGeometry x="867" y="290" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Me_d-5FY4B504swFRwen-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="YR4OArcNj85Ic_sHVcnc-1" target="YR4OArcNj85Ic_sHVcnc-23">
           <mxGeometry relative="1" as="geometry" />
@@ -362,7 +362,7 @@
         <mxCell id="YR4OArcNj85Ic_sHVcnc-14" value="- apellido: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
           <mxGeometry y="130" width="300" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="YR4OArcNj85Ic_sHVcnc-15" value="- tipoPersona: Datos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
+        <mxCell id="YR4OArcNj85Ic_sHVcnc-15" value="- tipoPersona: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
           <mxGeometry y="156" width="300" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YR4OArcNj85Ic_sHVcnc-16" value="- calle: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
@@ -400,16 +400,28 @@
             <mxPoint x="90" y="30" as="sourcePoint" />
             <mxPoint x="810" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="90" y="30" />
               <mxPoint x="95" y="30" />
               <mxPoint x="95" y="-20" />
-              <mxPoint x="830" y="-20" />
-              <mxPoint x="830" y="60" />
+              <mxPoint x="890" y="-20" />
+              <mxPoint x="890" y="60" />
+              <mxPoint x="1002" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nQG92IMVy-8tEluZl798-1" value="El usuario puede consultar el valor de&#xa;las acciones sin necesidad de realizar&#xa;una transacción." style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fontColor=#46495D;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="320" y="-80" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_d-5FY4B504swFRwen-10" value="AccionComprada" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_d-5FY4B504swFRwen-11" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;idAccion: idElemento&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;simbolo: str&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;nombre: str&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;cantidad: float&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;precioVenta: float&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Me_d-5FY4B504swFRwen-10">
+          <mxGeometry y="26" width="150" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_d-5FY4B504swFRwen-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Me_d-5FY4B504swFRwen-10">
+          <mxGeometry y="120" width="150" height="2" as="geometry" />
+        </mxCell>
+        <mxCell id="Me_d-5FY4B504swFRwen-13" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Me_d-5FY4B504swFRwen-10">
+          <mxGeometry y="122" width="150" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
