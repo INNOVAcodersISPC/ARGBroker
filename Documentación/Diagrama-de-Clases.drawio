@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T21:32:32.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="R_1qKY86enJkgVc_v9s8" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T21:33:04.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="QgtAqGcYSUoQuD9MPKk2" version="24.5.1" type="github">
   <diagram id="4ZVeGR4BuKe1Iovd7hrI" name="Página-2">
     <mxGraphModel dx="2261" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,16 +34,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-1" value="Transaccion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="380" width="200" height="350" as="geometry" />
+          <mxGeometry x="380" y="380" width="200" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Udiot9RHwUiTkLpyKNF2-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- idInversor: str&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- idTransaccion: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tipoTransaccion: str&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- idEmpresa: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- cantidad: float&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- precio: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- fechaHora: dateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- comision: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- costoTotal: floa&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
-          <mxGeometry y="26" width="200" height="254" as="geometry" />
+        <mxCell id="Udiot9RHwUiTkLpyKNF2-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- idInversor: str&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- idTransaccion: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tipoTransaccion: str&lt;br&gt;&lt;/div&gt;&lt;div&gt;- idEmpresa: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- cantidad: float&lt;/div&gt;&lt;div&gt;- precio: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- fechaHora: dateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;- comision: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- costoTotal: floa&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
+          <mxGeometry y="26" width="200" height="154" as="geometry" />
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
-          <mxGeometry y="280" width="200" height="8" as="geometry" />
+          <mxGeometry y="180" width="200" height="8" as="geometry" />
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-4" value="+ calcularComision()&lt;div&gt;+ ejecutarCompra()&lt;/div&gt;&lt;div&gt;+ ejecutarVenta ()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
-          <mxGeometry y="288" width="200" height="62" as="geometry" />
+          <mxGeometry y="188" width="200" height="62" as="geometry" />
         </mxCell>
         <mxCell id="BHIDUtEeofO8fUMYcxUe-1" value="Documentación del Diagrama clases&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;u&gt;1- Clase UsuarioLogin:&lt;/u&gt;&lt;/b&gt; Al entrar al broker se debe hacer un login, el cual vlaidará si el usuario es nuevo o no ya que cada usuario debe tener un nombre único.&amp;nbsp;&lt;/div&gt;&lt;div&gt;auntentificarUsuario: es un método que verifica las credenciales del usuario sean correctas ( nombre de usuario y contraseña).&amp;nbsp;&lt;/div&gt;&lt;div&gt;validacionCuenta: Comprueba si el nombre de usuario existe.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1- Inversor: Una vez ingresado en el sistema el usuario toma el rol de inversor y se trae su información desde la base de datos&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2- Portafolio: Cada usuario tiene un portafolio el cual es único, este contiene toda la información actualizada de sus acciones.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3- Empresa: Es un panel que muestra datos relacionados a todas las acciones disponibles de otras empresas.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4- Transacción: Nos muestra la operación efectuada a la hora de la compra o venta de acciones, nos brinda información respecto de la operación efectuada teniendo en cuenta el cobro de la comisión que se queda el broker.&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="40" width="290" height="460" as="geometry" />
@@ -64,7 +64,8 @@
         <mxCell id="VErTfWRlACyQmQyC-tgp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.165;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamondThin;endFill=0;startSize=14;endSize=14;" parent="1" source="Udiot9RHwUiTkLpyKNF2-2" target="w0gHt6fkLmcZtoDT3hkJ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="440" />
+              <mxPoint x="610" y="483" />
+              <mxPoint x="610" y="440" />
               <mxPoint x="800" y="440" />
               <mxPoint x="800" y="278" />
             </Array>
