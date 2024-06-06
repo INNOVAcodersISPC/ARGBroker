@@ -13,28 +13,28 @@
 
 3. Enumerar los pasos para que ARGBroker sea parte del Registro Nacional de software.
 
-1. Ingresar al TAD (Trámites a Distancia):
+- 1. Ingresar al TAD (Trámites a Distancia):
 Accede al sitio web del Registro Nacional de la Propiedad Intelectual (https://www.argentina.gob.ar/inpi) y dirígete a la sección Trámites.
 Selecciona la opción Inscripción de obra publicada - Software.
-2. Crear una cuenta o iniciar sesión:
+- 2. Crear una cuenta o iniciar sesión:
 Si ya tienes una cuenta en TAD, inicia sesión con tu nombre de usuario y contraseña.
 Si no tienes una cuenta, deberás crear una nueva siguiendo las instrucciones del sistema.
-3. Completar el formulario de solicitud:
+- 3. Completar el formulario de solicitud:
 El formulario te solicitará información sobre el software, como el título, la descripción, los autores, los titulares de los derechos y la fecha de creación.
 También deberás subir algunos documentos, como el código fuente del software y una copia del manual de usuario (si lo hay).
-4. Pagar el arancel:
+- 4. Pagar el arancel:
 El arancel para el registro de software es de $3.000.
 Puedes pagar el arancel con tarjeta de crédito o débito a través del sistema TAD.
-5. Enviar la solicitud:
+- 5. Enviar la solicitud:
 Una vez que hayas completado el formulario y pagado el arancel, podrás enviar la solicitud.
 El sistema te asignará un número de expediente electrónico, que deberás conservar para cualquier consulta posterior.
-6. Seguimiento del expediente:
+- 6. Seguimiento del expediente:
 Puedes seguir el estado de tu expediente en el TAD.
 Recibirás una notificación por correo electrónico cuando tu solicitud haya sido procesada.
-7. Obtención del certificado de registro:
+- 7. Obtención del certificado de registro:
 Si tu solicitud es aprobada, recibirás un certificado de registro que acredita que tu software está registrado en el Registro Nacional de Software.
 
-Requisitos adicionales:
+- Requisitos adicionales:
 Si no eres el autor y/o titular del software, deberás presentar documentación que acredite tu derecho a registrarlo.
 Si el software fue desarrollado por una empresa, deberás presentar documentación que acredite la existencia de la empresa y la representación legal del solicitante.
 
