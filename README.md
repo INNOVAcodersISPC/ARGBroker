@@ -36,6 +36,8 @@ cantidad de acciones compradas con su respectivo símbolo/título, el valor comp
 
 **Diagrama de Clases :** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Documentacion%20Diagrama%20de%20clases.pdf
 
+**Diagrama del Modelo Relacional:** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Diagrama%20del%20modelo%20relacional.pdf
+
 
 
 
