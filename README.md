@@ -32,8 +32,8 @@ cantidad de acciones compradas con su respectivo símbolo/título, el valor comp
 
 ## Enlaces de la documentacion 📄
 
-**Etica y Deontologia Profesional : ** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Etica%20y%20Deontologia%20Profesional.pdf
-** Diagrama de Clases : ** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Documentacion%20Diagrama%20de%20clases.pdf
+**Etica y Deontologia Profesional :** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Etica%20y%20Deontologia%20Profesional.pdf
+**Diagrama de Clases :** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Documentacion%20Diagrama%20de%20clases.pdf
 
 
 
