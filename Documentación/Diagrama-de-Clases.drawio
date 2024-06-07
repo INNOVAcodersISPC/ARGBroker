@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T01:28:26.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="u3PZWWfyxgd0KGzw60IB" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T01:34:21.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="U_3_4oT-KJnuJc_M3uAm" version="24.5.1" type="github">
   <diagram id="4ZVeGR4BuKe1Iovd7hrI" name="Página-2">
     <mxGraphModel dx="2193" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,16 +34,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-1" value="Transaccion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="380" y="380" width="200" height="250" as="geometry" />
+          <mxGeometry x="380" y="380" width="200" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="Udiot9RHwUiTkLpyKNF2-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- nombreUsuario: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- idEmpresa: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- idTransaccion: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tipoTransaccion: int&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- cantidad: float&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- precio: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- fechaHora: dateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;- comision: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- costoTotal: floa&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
+        <mxCell id="Udiot9RHwUiTkLpyKNF2-2" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- nombreUsuario: string&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;div&gt;- idEmpresa: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- idTransaccion: int&lt;br&gt;&lt;/div&gt;&lt;div&gt;- tipoTransaccion: int&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- cantidad: float&lt;/span&gt;&lt;/div&gt;&lt;div&gt;- precio: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- fechaHora: dateTime&lt;br&gt;&lt;/div&gt;&lt;div&gt;- comision: float&lt;br&gt;&lt;/div&gt;&lt;div&gt;- costoTotal: floa&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
           <mxGeometry y="26" width="200" height="154" as="geometry" />
         </mxCell>
         <mxCell id="Udiot9RHwUiTkLpyKNF2-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
           <mxGeometry y="180" width="200" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="Udiot9RHwUiTkLpyKNF2-4" value="+ calcularComision()&lt;div&gt;+ ejecutarCompra()&lt;/div&gt;&lt;div&gt;+ ejecutarVenta ()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
-          <mxGeometry y="188" width="200" height="62" as="geometry" />
+        <mxCell id="Udiot9RHwUiTkLpyKNF2-4" value="+ calcularComision()&lt;div&gt;+ ejecutarCompra()&lt;/div&gt;&lt;div&gt;+ ejecutarVenta ()&lt;/div&gt;&lt;div&gt;+ validarSaldo()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="Udiot9RHwUiTkLpyKNF2-1" vertex="1">
+          <mxGeometry y="188" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="VErTfWRlACyQmQyC-tgp-10" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="490" y="350" width="40" height="30" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="YR4OArcNj85Ic_sHVcnc-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="YR4OArcNj85Ic_sHVcnc-1" vertex="1">
           <mxGeometry y="70" width="290" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="YR4OArcNj85Ic_sHVcnc-5" value="+ autentificarUsuario (): boolean&lt;br&gt;+ validacionCuenta(): void&lt;br&gt;+ validacionIdentificadorFiscal(): void&lt;br&gt;+ crearCuenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-1" vertex="1">
+        <mxCell id="YR4OArcNj85Ic_sHVcnc-5" value="+ autentificarUsuario ()&lt;br&gt;+ validacionCuenta()&lt;br&gt;+ validacionIdentificadorFiscal()&lt;br&gt;+ crearCuenta()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-1" vertex="1">
           <mxGeometry y="78" width="290" height="82" as="geometry" />
         </mxCell>
         <mxCell id="YR4OArcNj85Ic_sHVcnc-8" value="Inversor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -87,7 +87,7 @@
         <mxCell id="YR4OArcNj85Ic_sHVcnc-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
           <mxGeometry y="196" width="290" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="YR4OArcNj85Ic_sHVcnc-21" value="+ cerrarSesion(): void&lt;br&gt;&lt;div&gt;+ cambiarContrasenia(nuevaConasenia: string):void&lt;br&gt;+ getPortafolio(): void&lt;br&gt;+ comprar ()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
+        <mxCell id="YR4OArcNj85Ic_sHVcnc-21" value="+ cerrarSesion()&lt;div&gt;&lt;div&gt;+ cambiarContrasenia(nuevaConasenia: string)&lt;br&gt;+ getPortafolio()&lt;br&gt;+ comprar ()&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="YR4OArcNj85Ic_sHVcnc-8" vertex="1">
           <mxGeometry y="204" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TaEtJ6j2Dvqoo3WEO2Qc-1" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="w0gHt6fkLmcZtoDT3hkJ-1" edge="1">
