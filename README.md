@@ -30,5 +30,10 @@ cantidad de acciones compradas con su respectivo símbolo/título, el valor comp
 * **Suarez Adrian**  [adri-suarez](https://github.com/adri-suarez)
 * **Vargas Cristian**  [Malvada Papa](https://github.com/Malvadapapa)
 
+## Enlaces de la documentacion 📄
+
+**Etica y Deontologia Profesional :** https://github.com/INNOVAcodersISPC/ARGBroker/blob/main/Documentaci%C3%B3n/Etica%20y%20Deontologia%20Profesional.pdf
+
+
 
 
