@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T23:32:52.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Asc36YrZOjaffyd_hg_u" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-05T19:05:26.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" etag="oedfY1UX3qJtQWN3Y3nn" version="24.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3520" dy="3009" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="607" dy="1486" grid="1" gridSize="17" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,10 +32,10 @@
           <mxGeometry y="50" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-45" value="Empresa" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="436" y="-36" width="170" height="278" as="geometry" />
+          <mxGeometry x="436" y="-36" width="170" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="7hoT9Ia_uspJayf44At0-46" value="id_empresa PK&lt;div&gt;id_tipo_inversion FK&lt;br&gt;&lt;div&gt;nombre_empresa&lt;/div&gt;&lt;div&gt;simbolo_empresa&lt;/div&gt;&lt;div&gt;cantidad_acciones&lt;/div&gt;&lt;div&gt;precio_actual_compra&lt;/div&gt;&lt;div&gt;precio_actual_venta&lt;/div&gt;&lt;div&gt;cantidad_compra_diaria&lt;br&gt;cantidad_venta_diaria&lt;/div&gt;&lt;div&gt;precio_apertura&lt;/div&gt;&lt;div&gt;precio_minimo_diario&lt;/div&gt;&lt;div&gt;precio_maximo_diario&lt;/div&gt;&lt;div&gt;precio_cierre&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;labelBackgroundColor=none;fontColor=#143642;" parent="7hoT9Ia_uspJayf44At0-45" vertex="1">
-          <mxGeometry y="50" width="170" height="228" as="geometry" />
+        <mxCell id="7hoT9Ia_uspJayf44At0-46" value="id_empresa PK&lt;div&gt;id_tipo_inversion FK&lt;br&gt;&lt;div&gt;nombre_empresa&lt;/div&gt;&lt;div&gt;simbolo_empresa&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;rounded=1;labelBackgroundColor=none;fontColor=#143642;" parent="7hoT9Ia_uspJayf44At0-45" vertex="1">
+          <mxGeometry y="50" width="170" height="71" as="geometry" />
         </mxCell>
         <mxCell id="7hoT9Ia_uspJayf44At0-47" value="Tipo_inversion" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
           <mxGeometry x="729" y="118" width="183" height="160" as="geometry" />
@@ -148,7 +148,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvECnaBUvUEXDfrViWp9-30" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0.001;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;" parent="1" target="AP3MOZmC3ACQSBozkBBV-2" edge="1">
+        <mxCell id="rvECnaBUvUEXDfrViWp9-30" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;rounded=0;entryX=0.001;entryY=0.559;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;exitX=0.992;exitY=0.418;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="AP3MOZmC3ACQSBozkBBV-2" edge="1" source="7hoT9Ia_uspJayf44At0-46">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="606" y="53" as="sourcePoint" />
             <mxPoint x="706" y="-47" as="targetPoint" />
